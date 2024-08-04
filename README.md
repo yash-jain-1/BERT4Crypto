@@ -1,9 +1,9 @@
 # BERT4Crypto
-A Transformer model to identify fraudulent cryptocurrency transactions and wallets with the help of the Elliptic++ Datase
+A Transformer model to identify fraudulent cryptocurrency transactions and wallets with the help of the Elliptic++ Datase and ERC-20 log dataset.
 
 ### Some notes:
 
-**Note 1:** The master branch hosts the basic BERT4ETH. If you wish to run the basic model, there is no need to download the ERC-20 log dataset. Advanced features such as In/out separation and ERC20 log can be found in the old branch but are not recommended due to the inefficiency of computation and memory.
+**Note 1:** The master branch hosts the basic BERT4Crypto. If you wish to run the basic model, there is no need to download the ERC-20 log dataset. Advanced features such as In/out separation and ERC20 log can be found in the old branch but are not recommended due to the inefficiency of computation and memory.
 
 **Note 2:** Despite BERT4ETH is a sequential model, it is able to capture **three-hop** relationship from a graph perspective. 
 ![multi_hop_modeling.png](Material/multihop_modeling.png)
