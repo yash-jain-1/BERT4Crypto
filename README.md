@@ -190,5 +190,5 @@ python run_finetune_phisher.py --init_checkpoint=bert4eth_exp/model_104000 \
 -----
 ## Q&A
 
-If you have any questions, you can either open an issue or contact me (sihaohu@gatech.edu), and I will reply as soon as I see the issue or email.
+If you have any questions, you can either open an issue or contact me (yashjainstudy@gmail.com), and I will reply as soon as I see the issue or email.
 
